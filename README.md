@@ -17,7 +17,7 @@ The model's performance is evaluated using the Peak Signal-to-Noise Ratio (PSNR)
 ## How to Run
 1. **Clone the Repository**:
     ```sh
-   https://github.com/Aimank009/VLG_DenoisingImages.git
+   https://github.com/Harshwardhanmemne/Low-Light-Image-Enhancement.git
     ```
 2. **Go to project directory**:
     ```sh
